@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Realmvoid.aternos.me:29422",
+    "ip": "Realmvoid.aternos.me",
     "port": 29422,
     "version": "",
     "try-creative": false
